@@ -5,7 +5,7 @@ const encrypt = require('../../encrypt');
 module.exports = (on, config) => {
   on('task', { encrypt });
 
-  const newConfig = {
+  return {
     ...config,
     env: {
       ...config.env,
@@ -24,8 +24,4 @@ module.exports = (on, config) => {
     video: false,
     watchForFileChanges: false
   }
-
-  // eslint-disable-next-line no-console
-  console.log('\n>> newConfig.env', newConfig.env);
-  return newConfig
 }
