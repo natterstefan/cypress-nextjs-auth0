@@ -1,6 +1,6 @@
 # cypress-nextjs-auth0
 
-[![Build Status](https://travis-ci.org/sir-dunxalot/cypress-nextjs-auth0.svg)](https://travis-ci.org/sir-dunxalot/cypress-nextjs-auth0) [![npm](https://img.shields.io/npm/v/cypress-nextjs-auth0.svg)](https://www.npmjs.com/package/cypress-nextjs-auth0)
+[![Node CI](https://github.com/sir-dunxalot/cypress-nextjs-auth0/actions/workflows/ci.yml/badge.svg)](https://github.com/sir-dunxalot/cypress-nextjs-auth0/actions/workflows/ci.yml) [![npm](https://img.shields.io/npm/v/cypress-nextjs-auth0.svg)](https://www.npmjs.com/package/cypress-nextjs-auth0)
 
 ## Contents
 
